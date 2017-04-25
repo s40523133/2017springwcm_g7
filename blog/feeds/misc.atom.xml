@@ -8,7 +8,33 @@
 &lt;p&gt;如果像要知道檔案在哪裡就 cd /var/www/html , ls -l ,sudo vi index.nginx-debian.html 就可更改&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/214261267" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/214261267"&gt;上課內容練習&lt;/a&gt; 來源 &lt;a href="https://vimeo.com/user58667333"&gt;隊友陳士正&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="Ubuntu"></category><category term="Virtualbox"></category></entry><entry><title>網路線製作</title><link href="./wang-lu-xian-zhi-zuo.html" rel="alternate"></link><published>2017-04-25T12:00:00+08:00</published><updated>2017-04-25T12:00:00+08:00</updated><author><name>chen</name></author><id>tag:,2017-04-25:./wang-lu-xian-zhi-zuo.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</summary><category term="Leo"></category><category term="python"></category></entry><entry><title>用start開啟Leo</title><link href="./yong-startkai-qi-leo.html" rel="alternate"></link><published>2017-04-25T12:00:00+08:00</published><updated>2017-04-25T12:00:00+08:00</updated><author><name>chen</name></author><id>tag:,2017-04-25:./yong-startkai-qi-leo.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/214261267"&gt;上課內容練習&lt;/a&gt; 來源 &lt;a href="https://vimeo.com/user58667333"&gt;隊友陳士正&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="Ubuntu"></category><category term="Virtualbox"></category></entry><entry><title>網路線製作</title><link href="./wang-lu-xian-zhi-zuo.html" rel="alternate"></link><published>2017-04-25T12:00:00+08:00</published><updated>2017-04-25T12:00:00+08:00</updated><author><name>chen</name></author><id>tag:,2017-04-25:./wang-lu-xian-zhi-zuo.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;在課程中，&lt;/p&gt;
+&lt;p&gt;出現了製作網路線的任務，&lt;/p&gt;
+&lt;p&gt;乍看之下不難，&lt;/p&gt;
+&lt;p&gt;但我們的第七組似乎只成功了一半，&lt;/p&gt;
+&lt;p&gt;材料: 
+RJ-45接頭
+&lt;img alt="Foo" src="https://github.com/s40523133/2017springwcm_g7/blob/gh-pages/image/IMG_3943.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;8蕊網路線
+&lt;img alt="Foo" src="https://github.com/s40523133/2017springwcm_g7/blob/gh-pages/image/IMG_3965.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;剪刀
+&lt;img alt="Foo" src="https://github.com/s40523133/2017springwcm_g7/blob/gh-pages/image/123.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;壓線鉗
+&lt;img alt="Foo" src="https://github.com/s40523133/2017springwcm_g7/blob/gh-pages/image/images.jpg" /&gt;          &lt;/p&gt;
+&lt;p&gt;以下是製作步驟:&lt;/p&gt;
+&lt;p&gt;利用工具將網路線之外層剝除2~3cm&lt;/p&gt;
+&lt;p&gt;依照下圖&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Foo" src="https://github.com/s40523133/2017springwcm_g7/blob/gh-pages/image/exp321-T568B.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;做整線的工作&lt;/p&gt;
+&lt;p&gt;須剪齊線頭&lt;/p&gt;
+&lt;p&gt;最後將現插入接頭，並以壓線器完成&lt;/p&gt;
+&lt;p&gt;心得:&lt;/p&gt;
+&lt;p&gt;做這真的不容易，&lt;/p&gt;
+&lt;p&gt;用了很久才成功一頭而已，&lt;/p&gt;
+&lt;p&gt;只不過完成了之後有成就感。
+&lt;/p&gt;&lt;/p&gt;</summary><category term="Leo"></category><category term="python"></category></entry><entry><title>用start開啟Leo</title><link href="./yong-startkai-qi-leo.html" rel="alternate"></link><published>2017-04-25T12:00:00+08:00</published><updated>2017-04-25T12:00:00+08:00</updated><author><name>chen</name></author><id>tag:,2017-04-25:./yong-startkai-qi-leo.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;開啟SciTE編輯start.bat找到python.exe開啟之後再讀取launchLeo.py然後在哪裡&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/214636780" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
